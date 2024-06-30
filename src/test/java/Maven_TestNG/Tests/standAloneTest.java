@@ -23,7 +23,7 @@ public class standAloneTest extends Base_Test{
 		
 		// TODO Auto-generated method stub
 
-		
+		//new comment
         //loginTest login = launchapp();
 		allProductPage allProd = login.loginPageTest(input.get("email"), input.get("password"));
 		String ProductName = "ADIDAS ORIGINAL";
